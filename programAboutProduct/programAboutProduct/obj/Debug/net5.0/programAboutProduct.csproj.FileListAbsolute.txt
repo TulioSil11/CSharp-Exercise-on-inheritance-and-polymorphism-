@@ -1,0 +1,16 @@
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\bin\Debug\net5.0\programAboutProduct.exe
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\bin\Debug\net5.0\programAboutProduct.deps.json
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\bin\Debug\net5.0\programAboutProduct.runtimeconfig.json
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\bin\Debug\net5.0\programAboutProduct.runtimeconfig.dev.json
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\bin\Debug\net5.0\programAboutProduct.dll
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\bin\Debug\net5.0\programAboutProduct.pdb
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\obj\Debug\net5.0\programAboutProduct.csproj.AssemblyReference.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\obj\Debug\net5.0\programAboutProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\obj\Debug\net5.0\programAboutProduct.AssemblyInfoInputs.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\obj\Debug\net5.0\programAboutProduct.AssemblyInfo.cs
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\obj\Debug\net5.0\programAboutProduct.csproj.CoreCompileInputs.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\obj\Debug\net5.0\programAboutProduct.dll
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\obj\Debug\net5.0\refint\programAboutProduct.dll
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\obj\Debug\net5.0\programAboutProduct.pdb
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\obj\Debug\net5.0\programAboutProduct.genruntimeconfig.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\programAboutProduct\programAboutProduct\obj\Debug\net5.0\ref\programAboutProduct.dll
